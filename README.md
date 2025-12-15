@@ -84,8 +84,8 @@ Proyek ini dilisensikan di bawah lisensi yang tercantum pada file `LICENSE`.
 ---
 
 ## Penulis
-Maria Shelina Angie (187231006)
-Cokorda Istri Trisna Shanti Maharani Pemayun	(187231011)
-Jasmine Mumtaz (502510310010)
+- Maria Shelina Angie (187231006)
+- Cokorda Istri Trisna Shanti Maharani Pemayun	(187231011)
+- Jasmine Mumtaz (502510310010)
 
 Proyek ini dikembangkan sebagai bagian dari penerapan sistem cerdas untuk mendukung pengelolaan lingkungan kampus yang berkelanjutan.
