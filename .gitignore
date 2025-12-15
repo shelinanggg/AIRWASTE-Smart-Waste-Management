@@ -1,0 +1,21 @@
+# Dataset & model (external - Kaggle)
+Images/
+waste-classification-cnn-model-tensorflow1-default-v1/
+data/
+dataset/
+model/
+
+# Model & archive files
+*.h5
+*.pt
+*.pth
+*.zip
+
+# Notebook
+*.ipynb
+
+# Cache & env
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
