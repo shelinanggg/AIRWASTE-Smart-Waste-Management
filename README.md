@@ -47,7 +47,7 @@ Setelah diunduh, sesuaikan path dataset dan model di dalam file `app.py`.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/shelinanggg/AIRWASTE-Smart-Waste-Management
+git clone https://github.com/shelinanggg/AIRWASTE-Smart-Waste-Management.git
 cd AIRWASTE-Smart-Waste-Management
 ```
 
