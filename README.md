@@ -22,7 +22,7 @@ AIRWASTE adalah implementasi **Smart Waste Management System** berbasis *Compute
 
 ## Struktur Proyek
 ```
-AIRWASTE/
+AIRWASTE-Smart-Waste-Management/
 │── app.py                 # File utama aplikasi Streamlit
 │── requirements.txt       # Daftar dependensi
 │── README.md              # Dokumentasi proyek
